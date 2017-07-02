@@ -5,13 +5,13 @@
 # 效果
 ![](http://on891bjlf.bkt.clouddn.com/vue/search.png)
 
-[在线查看]()
+[在线查看](http://osgp88fat.bkt.clouddn.com/index.html)
 
 # 所用知识
 - 单文件组件
 - vue-resource(ajax库)
 - vue过渡效果 transition-group
-[过渡效果](http://osgp88fat.bkt.clouddn.com/index.html)
+[过渡效果](https://cn.vuejs.org/v2/guide/transitions.html#概述)
 
 
 # 打包发布
